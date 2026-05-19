@@ -1,0 +1,5 @@
+
+-
+[[Conceitos Mobilizados]]
+[[Aristóteles]]
+[[Metafísica]]

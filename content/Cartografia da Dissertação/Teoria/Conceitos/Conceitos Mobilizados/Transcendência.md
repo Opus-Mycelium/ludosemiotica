@@ -1,0 +1,5 @@
+
+-
+[[Conceitos Mobilizados]]
+[[Platão]]
+[[Metafísica]]

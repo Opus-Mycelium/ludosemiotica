@@ -1,0 +1,13 @@
+
+O método da Revisão Bibliográfica Estrutural consiste em mapear sistematicamente o conjunto teórico e os sistemas de códigos fechados da semiótica, ao mesmo tempo que dedica-se também a compreensão da bibliografia ludológica, entendida como um empreendimento teórico dedicado à compreensão de jogos que são, por definição, sistemas de códigos fechados. O objetivo é assegurar uma conceitualização sólida, demonstrando que a revisita aos autores clássicos é produtiva para localizar com precisão científica os limites dos modelos estruturalistas face ao objeto contemporâneo. Trata-se de inventariar o estado da arte para flagrar o momento exato em que as taxonomias estáticas ou focadas em uma recepção puramente passiva perdem tração diante da atividade mecânica do jogador. Este exercício servirá não para montar uma enciclopédia e aferir um diagnóstico totalizante do relacionamento entre a academia e os videogames, mas realizar recortes das principais rupturas teóricas evocadas na contemporaneidade.
+
+Justifica-se por assumir que, para validar o avanço conceitual da ludosemiótica, é imperativo delimitar rigorosamente onde o aparato semiótico anterior carece de estofo descritivo diante de uma semiose exclusivamente ativa. 
+
+-
+
+**Nota do mestrando:** Busquei instrumentalizar a revisão bibliográfica contínua para que ela deixe de ser um mero apêndice e passe a operar como um método de diagnóstico tensionado. A escolha de Umberto Eco reside no fato de sua teoria dos códigos e da estrutura mapear o teto do estruturalismo; ao evidenciar onde essa arquitetura sistêmica esbarra na agência não-trivial e no esgotamento gerado pelo contato com as materialidades do gameplay, legitimo a insolência teórica da dissertação em sua necessidade de criar novas categorias pautadas no ergódico e no interativo, bem como na natureza transversal (imanente e transcendente) e de tensão contínua entre as materialidades e imaterialidades dos jogos. Adicionalmente, não passarei pela semiótica "caso a caso" (revisando Peirce ou Saussure), mas identificarei um problema geral que se impõe a partir da natureza dos jogos digitais e que os leva e não serem totalmente "suportados" pela semiótica tradicional ou qualquer visão semiótica que julgue-se "pura"; oferecendo, por fim, as perspectivas de autores que mobilizo nos métodos como edificantes para compreender a realidade imposta pelo gameplay, culminando em uma Ludosemiótica
+
+-
+
+[[Métodos]]
+[[Eco]]

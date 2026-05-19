@@ -1,0 +1,5 @@
+
+-
+[[Conceitos Mobilizados]]
+[[Deleuze]]
+[[Filosofia]]

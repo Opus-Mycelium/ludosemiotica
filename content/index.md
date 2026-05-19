@@ -1,0 +1,3 @@
+# Bem-vindo à Cartografia Ludosemiótica
+Esta é a indexação da pesquisa...
+
