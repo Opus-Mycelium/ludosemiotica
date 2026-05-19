@@ -38,6 +38,17 @@ export default (() => {
 
     return (
       <head>
+      <script dangerouslySetInnerHTML={{ __html: `
+                if (sessionStorage.getItem('acesso_liberado') !== 'true') {
+                  const senha = prompt('Acesso restrito. Por favor, insira a senha da pesquisa:');
+                  if (senha === 'caminhãoludosemiótico') {
+                    sessionStorage.setItem('acesso_liberado', 'true');
+                  } else {
+                    document.documentElement.innerHTML = '<body style="background:#161618; color:#ececec; display:flex; justify-content:center; align-items:center; height:100vh; font-family:sans-serif;"><h2>Acesso Restrito - Pesquisa Protegida</h2></body>';
+                    window.stop();
+                  }
+                }
+              `}} />
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
